@@ -21,3 +21,4 @@ print(f"your total is {yourtotal},thanks for coming Hana")
     #print(f"Your BMI is {bmi}, you are obese.")
 #else:
   #  print(f"Your BMI is {bmi}, you are clinically obese.")
+ # print("V")
